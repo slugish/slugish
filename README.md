@@ -7,6 +7,7 @@
 
 # Skills:
 - C
+- Python
 
 
 
