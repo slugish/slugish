@@ -1,16 +1,2 @@
 # About Me:
-- Name: Kevin
-- Age: 19yo
-
-
-
-
-# Skills:
-- C
-- Python
-
-
-
-
-# Contact:
-(website & socials);
+My name is kevin and i will be updating this whenever im skilled enough :p
